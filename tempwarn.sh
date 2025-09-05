@@ -1,8 +1,8 @@
 #!/bin/bash
 
-VERSION="1.0.0"
+VERSION="1.0.1"
 REMOTE_VERSION_URL="https://raw.githubusercontent.com/krzysztofgasiewski/tempwarn/refs/heads/main/version.txt"
-REMOTE_SCRIPT_URL="https://example.com/tempwarn/tempwarn.sh"
+REMOTE_SCRIPT_URL="https://raw.githubusercontent.com/krzysztofgasiewski/tempwarn/refs/heads/main/tempwarn.sh"
 SENSOR_NAME="Tctl"
 LOGFILE="/var/log/temp-monitor.log"
 
